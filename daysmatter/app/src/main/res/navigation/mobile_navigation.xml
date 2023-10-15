@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.daysmatter.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_list" />
+
+    <fragment
+        android:id="@+id/nav_star"
+        android:name="com.example.daysmatter.ui.star.StarFragment"
+        android:label="@string/menu_star"
+        tools:layout="@layout/fragment_list" />
+
+    <fragment
+        android:id="@+id/nav_memorial"
+        android:name="com.example.daysmatter.ui.memorial.MemorialFragment"
+        android:label="@string/menu_memorial"
+        tools:layout="@layout/fragment_list" />
+
+    <fragment
+        android:id="@+id/nav_agenda"
+        android:name="com.example.daysmatter.ui.agenda.AgendaFragment"
+        android:label="@string/menu_agenda"
+        tools:layout="@layout/fragment_list" />
+
+    <fragment
+        android:id="@+id/nav_sharewm"
+        android:name="com.example.daysmatter.ui.sharewm.SharewmFragment"
+        android:label="@string/menu_sharewm"
+        tools:layout="@layout/fragment_list" />
+
+    <fragment
+        android:id="@+id/nav_search"
+        android:name="com.example.daysmatter.ui.search.SearchFragment"
+        android:label="@string/menu_search"
+        tools:layout="@layout/fragment_list" />
+</navigation>

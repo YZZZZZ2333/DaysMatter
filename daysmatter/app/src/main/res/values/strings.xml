@@ -1,0 +1,16 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">daysmatter</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">%c</string>
+    <string name="nav_header_subtitle">%c</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">退出登录</string>
+
+    <string name="menu_home">我的一天</string>
+    <string name="menu_star">星标</string>
+    <string name="menu_memorial">纪念日</string>
+    <string name="menu_agenda">计划日程</string>
+    <string name="menu_sharewm">与我共享</string>
+    <string name="menu_search">搜索</string>
+</resources>

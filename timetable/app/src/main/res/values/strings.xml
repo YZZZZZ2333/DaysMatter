@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">timetable</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">杨臻</string>
+    <string name="nav_header_subtitle">18052032</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">编辑</string>
+
+    <string name="menu_home">今天</string>
+    <string name="menu_detail_0">星期日</string>
+    <string name="menu_detail_1">星期一</string>
+    <string name="menu_detail_2">星期二</string>
+    <string name="menu_detail_3">星期三</string>
+    <string name="menu_detail_4">星期四</string>
+    <string name="menu_detail_5">星期五</string>
+    <string name="menu_detail_6">星期六</string>
+</resources>
